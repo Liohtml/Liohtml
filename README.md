@@ -8,7 +8,7 @@
 <!-- ░░░ BANNER ░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:BD00FF,100:FF003C&height=200&section=header&text=liohtml&fontColor=ffffff&fontSize=66&fontAlignY=34&desc=KI-Architekt%20%26%20Automation%20Engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20Rust&descAlignY=56&descSize=18&animation=fadeIn&v=2" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:BD00FF,100:FF003C&height=200&section=header&text=liohtml&fontColor=ffffff&fontSize=66&fontAlignY=34&desc=KI-Architekt%20%C2%B7%20Automation%20Engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20Rust&descAlignY=56&descSize=18&animation=fadeIn&v=3" alt="banner"/>
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <a href="https://portfolio-liohtmls-projects.vercel.app">
