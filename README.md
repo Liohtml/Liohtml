@@ -8,7 +8,7 @@
 <!-- ░░░ BANNER ░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:BD00FF,100:FF003C&height=200&section=header&text=liohtml&fontColor=ffffff&fontSize=66&fontAlignY=34&desc=KI-Architekt%20%26%20Automation%20Engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20Rust&descAlignY=56&descSize=18&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:BD00FF,100:FF003C&height=200&section=header&text=liohtml&fontColor=ffffff&fontSize=66&fontAlignY=34&desc=KI-Architekt%20%26%20Automation%20Engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20Rust&descAlignY=56&descSize=18&animation=fadeIn&v=2" alt="banner"/>
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <a href="https://portfolio-liohtmls-projects.vercel.app">
@@ -17,7 +17,6 @@
 
 <!-- ░░░ STATUS + LINKS ░░░ -->
 <p>
-  <img src="https://img.shields.io/badge/Open%20to%20work-Vollzeit%20%2F%20Hybrid%20%2F%20Remote-00F0FF?style=flat-square" alt="open to work"/>
   <a href="https://portfolio-liohtmls-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-BD00FF?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
   <a href="https://www.linkedin.com/in/lionel-machire-906108245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <img src="https://komarev.com/ghpvc/?username=liohtml&label=visitors&color=00F0FF&style=flat-square" alt="visitors"/>
@@ -143,10 +142,6 @@ fn main() {
 <br/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=liohtml&hide_border=true&theme=tokyonight&ring=BD00FF&fire=FF003C&currStreakLabel=00F0FF" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=liohtml&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
