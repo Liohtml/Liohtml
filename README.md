@@ -51,19 +51,6 @@ fn main() {
 
 ---
 
-## `> ls ~/featured-systems`
-
-> Production systems from my [**portfolio**](https://portfolio-liohtmls-projects.vercel.app) — real numbers, live today.
-
-| System | What it does | Scale | Status |
-|---|---|---|---|
-| 🎯 **Lead-Intelligence** | Find → enrich → reach qualified B2B contacts, fully automated | `10k+ / month` · LinkedIn + DB + AI | `🟢 PRODUCTION` |
-| 📡 **[Ausschreibungs-Radar](https://ausschreibungen-app.vercel.app)** | Auto-aggregates public tenders across DE + EU portals with AI summaries | `25 platforms` · `11.6k+ / run` · `0€/mo` | `🟢 PRODUCTION` |
-| ✉️ **Cold-Outreach** | 8 workflows replacing a manual multi-tool process, research → first call | `~2 min / lead` · Email + CRM | `🟢 PRODUCTION` |
-| ⚡ **Operations-Automation** | Workflow automation + real-time monitoring for a client | `+300% throughput` · `15 min auto-checks` | `🔵 CLIENT` |
-
----
-
 ## `> ls ~/stack`
 
 #### 🤖 AI & Agents
