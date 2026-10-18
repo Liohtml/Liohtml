@@ -1,7 +1,7 @@
 <!--
   liohtml — GitHub Profile README
   Theme: neon cyberpunk terminal · AI architect · automation · Rust
-  Content mirrors portfolio: https://portfolio-liohtmls-projects.vercel.app
+  Content mirrors portfolio: https://machire.de
   Snake + stats auto-update via Actions.
 -->
 
@@ -11,13 +11,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:BD00FF,100:FF003C&height=200&section=header&text=liohtml&fontColor=ffffff&fontSize=66&fontAlignY=34&desc=KI-Architekt%20%C2%B7%20Automation%20Engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20Rust&descAlignY=56&descSize=18&animation=fadeIn&v=3" alt="banner"/>
 
 <!-- ░░░ TYPING SVG ░░░ -->
-<a href="https://portfolio-liohtmls-projects.vercel.app">
+<a href="https://machire.de">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=I+build+AI+systems+that+kill+manual+work;From+idea+%E2%86%92+running+pipeline+%F0%9F%9A%80;LLM+agents+%C2%B7+automation+%C2%B7+web+intelligence;Rust+for+the+heavy+lifting+%E2%9A%99%EF%B8%8F;System+schl%C3%A4gt+Kraft+%F0%9F%A5%8B" alt="typing" />
 </a>
 
 <!-- ░░░ STATUS + LINKS ░░░ -->
 <p>
-  <a href="https://portfolio-liohtmls-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-BD00FF?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
+  <a href="https://machire.de"><img src="https://img.shields.io/badge/machire.de-BD00FF?style=flat-square" alt="Lionel Machire · machire.de"/></a>
   <a href="https://www.linkedin.com/in/lionel-machire-906108245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <img src="https://komarev.com/ghpvc/?username=liohtml&label=visitors&color=00F0FF&style=flat-square" alt="visitors"/>
 </p>
@@ -152,7 +152,7 @@ fn main() {
 
 ### `> connect --me`
 
-<a href="https://portfolio-liohtmls-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-BD00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+<a href="https://machire.de"><img src="https://img.shields.io/badge/machire.de-BD00FF?style=for-the-badge" alt="Lionel Machire · machire.de"/></a>
 <a href="https://www.linkedin.com/in/lionel-machire-906108245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 <br/><br/>
